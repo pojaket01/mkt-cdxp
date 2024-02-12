@@ -1,0 +1,50 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98b926dade4966f577db84c958bfd1a17a"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98c78afeb55b0577df5518ce072f3c3c00"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e980944ca574643ac175e5606d7f32c10bb"
+    }
+  ],
+  "containerPath" : "/Users/anumartchaichana/Desktop/Projects/mkt-cdxp-ios/Example/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/anumartchaichana/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/anumartchaichana/Library/Developer/Xcode/DerivedData/Pods-cwtdnnstcdehhgblykhhpctogytz/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/anumartchaichana/Library/Developer/Xcode/DerivedData/Pods-cwtdnnstcdehhgblykhhpctogytz/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
