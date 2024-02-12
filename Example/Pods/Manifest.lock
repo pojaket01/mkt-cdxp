@@ -1,0 +1,16 @@
+PODS:
+  - MKT (0.1.0)
+
+DEPENDENCIES:
+  - MKT (from `../`)
+
+EXTERNAL SOURCES:
+  MKT:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MKT: 5877df49a96b02fe7c3532ffdd68733840bd2e32
+
+PODFILE CHECKSUM: a647794182a0c5a8ee1b6d92dfbdeddfa87ed5f4
+
+COCOAPODS: 1.15.2

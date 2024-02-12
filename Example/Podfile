@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'MKT_Example' do
+  pod 'MKT', :path => '../'
+
+  target 'MKT_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

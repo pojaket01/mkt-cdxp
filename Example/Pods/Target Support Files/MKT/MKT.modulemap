@@ -1,0 +1,6 @@
+framework module MKT {
+  umbrella header "MKT-umbrella.h"
+
+  export *
+  module * { export * }
+}
