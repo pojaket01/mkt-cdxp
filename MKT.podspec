@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/pojaket01/mkt-cdxp'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'mangkhang.tk' => 'mangkhang.tk@gmail.com' }
-  s.source           = { :git => 'https://github.com/pojaket01/mkt-cdxp.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/pojaket01/mkt-cdxp.git', :tag => s.version }
   s.swift_version    = '5.0'
   s.ios.deployment_target = '10.0'
 

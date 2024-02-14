@@ -4,7 +4,7 @@
 //
 //  Created by Anumart Chaichana on 12/2/2567 BE.
 //
-
+//pod  - ERROR | [iOS] unknown: Encountered an unknown error (Pod::DSLError) during validation.
 import Foundation
 
 public func SystemTime(completion:  @escaping (Result<String, Error>) -> Void) {
