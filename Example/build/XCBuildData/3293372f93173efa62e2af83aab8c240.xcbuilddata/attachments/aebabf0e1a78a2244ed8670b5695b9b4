@@ -1,0 +1,10 @@
+framework module MKT {
+  umbrella header "MKT-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module MKT.__Swift {
+  exclude header "MKT-Swift.h"
+}

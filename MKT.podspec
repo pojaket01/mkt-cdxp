@@ -23,12 +23,12 @@ TODO: Add long description of the pod here.
                        DESC
 
   #s.homepage         = 'https://github.com/tonanumart/MKT'
-  s.homepage         = 'https://bitbucket.org/b-connex/mkt-cdxp-ios'
+  s.homepage         = 'https://github.com/pojaket01/mkt-cdxp'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'tonanumart' => 'tonanumart@gmail.com' }
+  s.author           = { 'mangkhang.tk' => 'mangkhang.tk@gmail.com' }
   #s.source           = { :git => 'https://github.com/tonanumart/MKT.git', :tag => s.version.to_s }
-  s.source           = { :git => 'https://bitbucket.org/b-connex/mkt-cdxp-ios.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/pojaket01/mkt-cdxp.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'

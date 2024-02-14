@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Example/build/Release-iphoneos/MKT/MKT.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Example/build/Pods.build/Release-iphoneos/MKT.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Example/build/Release-iphoneos/MKT/MKT.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "MKT-Swift.h",
+      'external-contents': "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Example/build/Pods.build/Release-iphoneos/MKT.build/unextended-interface-header.h",
+    }]
+    }]
+}

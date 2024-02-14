@@ -22,7 +22,7 @@ pod 'MKT'
 
 ## Author
 
-tonanumart, tonanumart@gmail.com
+mangkhang.tk, mangkhang.tk@gmail.com
 
 ## License
 

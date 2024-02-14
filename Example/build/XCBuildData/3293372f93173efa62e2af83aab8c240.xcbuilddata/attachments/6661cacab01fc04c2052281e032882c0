@@ -1,0 +1,5 @@
+ extern const unsigned char MKTVersionString[];
+ extern const double MKTVersionNumber;
+
+ const unsigned char MKTVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:MKT  PROJECT:Pods-1" "\n";
+ const double MKTVersionNumber __attribute__ ((used)) = (double)1.;

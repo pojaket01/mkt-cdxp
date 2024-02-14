@@ -1,0 +1,45 @@
+{
+  "" : {
+    "const-values" : "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Example/build/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/MKT-master.swiftconstvalues",
+    "dependencies" : "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Example/build/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/MKT-master.d",
+    "diagnostics" : "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Example/build/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/MKT-master.dia",
+    "emit-module-dependencies" : "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Example/build/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/MKT-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Example/build/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/MKT-master-emit-module.dia",
+    "swift-dependencies" : "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Example/build/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/MKT-master.swiftdeps"
+  },
+  "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Classes/consent/consentService.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/consentService.o",
+    "llvm-bc" : "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Example/build/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/consentService.bc",
+    "object" : "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Example/build/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/consentService.o"
+  },
+  "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Classes/customer/customerService.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/customerService.o",
+    "llvm-bc" : "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Example/build/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/customerService.bc",
+    "object" : "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Example/build/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/customerService.o"
+  },
+  "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Classes/initial/initialService.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/initialService.o",
+    "llvm-bc" : "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Example/build/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/initialService.bc",
+    "object" : "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Example/build/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/initialService.o"
+  },
+  "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Classes/Main.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/Main.o",
+    "llvm-bc" : "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Example/build/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/Main.bc",
+    "object" : "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Example/build/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/Main.o"
+  },
+  "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Classes/session/sessionService.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/sessionService.o",
+    "llvm-bc" : "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Example/build/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/sessionService.bc",
+    "object" : "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Example/build/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/sessionService.o"
+  },
+  "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Classes/track/trackService.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/trackService.o",
+    "llvm-bc" : "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Example/build/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/trackService.bc",
+    "object" : "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Example/build/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/trackService.o"
+  },
+  "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Classes/utilsService.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/utilsService.o",
+    "llvm-bc" : "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Example/build/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/utilsService.bc",
+    "object" : "/Users/anumartchaichana/Desktop/Projects/untitled folder/mkt-cdxp-ios/Example/build/Pods.build/Release-iphoneos/MKT.build/Objects-normal/arm64/utilsService.o"
+  }
+}
